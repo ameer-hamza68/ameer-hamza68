@@ -1,7 +1,7 @@
 <h1 align="center">Ameer Hamza</h1>
 
 <p align="center">
-  <b>MERN Stack Developer &nbsp;|&nbsp; AI Engineer (in progress) &nbsp;|&nbsp; Open Source Learner</b>
+  <b>MERN Stack Developer &nbsp;|&nbsp; AI Engineer &nbsp;|&nbsp; Open Source Learner</b>
 </p>
 
 <p align="center">
