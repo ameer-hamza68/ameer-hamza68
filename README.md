@@ -33,56 +33,106 @@ Currently:
 
 ## Featured Projects
 
-| Project | What it is | Tech |
-|---|---|---|
-| [**Kindred**](https://github.com/AmeerHamza73537) | Neighborhood resource-sharing platform with geo-based map search, trust scores & real-time borrow requests | MERN, Socket.IO, Cloudinary, JWT |
-| [**Job Nest**](https://github.com/AmeerHamza73537) | Dual-role job platform with proposals, resume-via-email applications & real-time messaging | MERN, Socket.IO, Nodemailer |
-| [**Royal Estate**](https://github.com/AmeerHamza73537) | Real estate listings with image uploads, offers/discounts, search filters & email contact | MERN, Cloudinary |
-| [**DrivePrice ML**](https://github.com/AmeerHamza73537) | Vehicle price prediction app trained on 300k+ records using Random Forest | Python, Scikit-learn, Pandas, Streamlit |
-| [**Authify**](https://github.com/AmeerHamza73537) | Full auth system — login, signup, OTP email verification, forgot password | MERN, JWT, Nodemailer |
+<table>
+  <tr>
+    <th align="left" width="160">Project</th>
+    <th align="left">What it is</th>
+    <th align="left" width="260">Tech</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ameer-hamza68/Kindred"><b>Kindred</b></a></td>
+    <td>Neighborhood exchange platform to lend, gift & share items nearby — 5 km map search, 4-digit handoff verification, gamified trust scores & real-time chat. Built solo for the TechWar Hackathon.</td>
+    <td>MERN, Socket.IO, Leaflet, Cloudinary, JWT</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ameer-hamza68/Meridian"><b>Meridian</b></a></td>
+    <td>Autonomous multi-agent research system — Search, Reader, Writer & Critic agents turn any topic into a scored research report.</td>
+    <td>LangChain, LangGraph, Gemini, Tavily, Streamlit</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ameer-hamza68/Codex-Navigator"><b>Codex Navigator</b></a></td>
+    <td>Local-first, evidence-backed analysis of public GitHub repos — "understand any codebase in minutes". Featured in the OpenAI Build Week gallery.</td>
+    <td>Next.js, TypeScript, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ameer-hamza68/Overture"><b>Overture</b></a></td>
+    <td>AI-powered lead discovery & outreach mobile app — Apollo/Hunter enrichment and AI-written emails sent through Gmail OAuth.</td>
+    <td>React Native, Expo, Node.js, Groq (Llama 3.3)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AmeerHamza73537"><b>Job Nest</b></a></td>
+    <td>Dual-role job platform — one account can seek and post jobs, with proposals, resume delivery via email & talent messaging.</td>
+    <td>MERN, Socket.IO, Nodemailer</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ameer-hamza68/Drive-Price"><b>DrivePrice ML</b></a></td>
+    <td>Vehicle price prediction app trained on 300k+ records with a Random Forest model.</td>
+    <td>Python, Scikit-learn, Pandas, Streamlit</td>
+  </tr>
+</table>
 
 ---
 
-## Tech Stack
+## Skills
 
-**Languages**
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,cpp" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,html,css,gsap,framer" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,expo" alt="Mobile" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,flask,socketio,postman" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mysql" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,groq,scikitlearn,numpy,pandas,matplotlib" alt="AI and ML" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Automation</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" alt="Automation" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,vercel,railway,render" alt="DevOps and Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,aws,postman" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Data & AI**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MatplotLib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**DevOps & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</p>
 ---
-
 
 ## GitHub Stats
 
@@ -94,4 +144,10 @@ Currently:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerHamza73537&theme=tokyonight&hide_border=true" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/AmeerHamza73537" alt="AmeerHamza73537's contribution graph" width="100%" />
 </p>
