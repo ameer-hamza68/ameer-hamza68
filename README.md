@@ -146,8 +146,8 @@ Currently:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-hamza68&theme=tokyonight&hide_border=true" />
 </p>
 
-## Contribution Graph
+## Activity Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/ameer-hamza68" alt="ameer-hamza68's contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameer-hamza68&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity%20Graph" alt="ameer-hamza68 activity graph" width="100%" />
 </p>
