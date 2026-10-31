@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://ameer-hamza-portfolio68.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/ameer-hamza-63a128353">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/AmeerHamza73537">GitHub</a>
+  <a href="https://leetcode.com/u/hamza756">Leetcode</a>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Currently:
     <td>React Native, Expo, Node.js, Groq (Llama 3.3)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AmeerHamza73537"><b>Job Nest</b></a></td>
+    <td><a href="https://github.com/ameer-hamza68"><b>Job Nest</b></a></td>
     <td>Dual-role job platform — one account can seek and post jobs, with proposals, resume delivery via email & talent messaging.</td>
     <td>MERN, Socket.IO, Nodemailer</td>
   </tr>
@@ -137,17 +137,17 @@ Currently:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmeerHamza73537&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameer-hamza68&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerHamza73537&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-hamza68&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerHamza73537&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-hamza68&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/AmeerHamza73537" alt="AmeerHamza73537's contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0e75b6/ameer-hamza68" alt="ameer-hamza68's contribution graph" width="100%" />
 </p>
